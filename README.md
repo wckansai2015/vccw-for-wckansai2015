@@ -13,7 +13,10 @@ $ vagrant package
 ## How to use the box
 
 1. Copy the box into user's machine.
-1. vagrant box add wckansai path/to/package.box
-1. vagrant init wckansai
-1. vagrant up
+1. Then run commands like following.
 
+```
+vagrant box add wckansai path/to/package.box
+vagrant init wckansai
+vagrant up
+```
