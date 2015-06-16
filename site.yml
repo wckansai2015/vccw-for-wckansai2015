@@ -4,7 +4,7 @@
 #
 # Network Settings
 #
-hostname: wck2015.dev
+hostname: wckansai.dev
 ip: 192.168.33.10
 
 #
@@ -12,3 +12,6 @@ ip: 192.168.33.10
 #
 version: latest
 lang: ja
+
+plugins:
+  - wp-multibyte-patch
