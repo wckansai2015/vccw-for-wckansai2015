@@ -1,0 +1,8 @@
+.DS_Store
+.bundle
+.idea/
+.vagrant
+Movefile
+package.box
+vendor
+www

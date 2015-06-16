@@ -1,0 +1,14 @@
+# encoding: utf-8
+# vim: ft=ruby expandtab shiftwidth=2 tabstop=2
+
+#
+# Network Settings
+#
+hostname: wck2015.dev
+ip: 192.168.33.10
+
+#
+# WordPress Settings
+#
+version: latest
+lang: ja
