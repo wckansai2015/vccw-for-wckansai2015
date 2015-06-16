@@ -3,7 +3,7 @@
 ## How to create box
 
 ```
-$ vagrant polugin install vagrant-vbguest
+$ vagrant plugin install vagrant-vbguest
 $ vagrant up
 $ vagrant reload
 $ vagrant reload # you need reload twice!!
@@ -16,7 +16,7 @@ $ vagrant package
 1. Then run commands like following.
 
 ```
-vagrant box add wckansai path/to/package.box
-vagrant init wckansai
-vagrant up
+$ vagrant box add wckansai path/to/package.box
+$ vagrant init wckansai
+$ vagrant up
 ```
